@@ -10,6 +10,9 @@
     "type": "git",
     "url": "https://github.com/kevininzelrac/button.git"
   },
+  "publishConfig": {
+    "@kevininzerlac:registry": "https://npm.pkg.github.com"
+  },
   "author": "Kevin Inzelrac",
   "license": "ISC"
 }
